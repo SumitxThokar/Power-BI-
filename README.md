@@ -12,8 +12,8 @@ Let's get familiar with the environment.
 **Fields pane** - Where query elements and filters can be dragged onto the Report view or dragged to the Filters area of the Visualizations pane.<br>
 
 ### Connecting to data sources and import data.
-![Get Data](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/Screenshot 2023-01-11 211644.png)
+![Get Data](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/data_soruce.png)
 One can easily get data from any format of file. Power BI supports more than 60 applications and format of data. For now let's get data from excel. <br>
-![From Excel]()
+![From Excel](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/getdatafromexcel.png)
 Now the navigator tab will pop up from where you can select which table data you want to work on. Clicking on the load button will load the data in Power BI Desktop.
 You can easily see the data from **Report view pane> Data Model**. 
