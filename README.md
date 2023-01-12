@@ -19,6 +19,6 @@ Now the navigator tab will pop up from where you can select which table data you
 You can easily see the data from **Report view pane> Data Model**. <br>
 ## Day 2 of Learning Power BI.
 On the journey of learing Power BI, Today I learned transforming data with the help of power query.<br>
-Before loading data in Power BI, we can transform the data by clicking transform buttom instead of load in Navigator tab. Or You can also transform the data after the data is loaded by clicking on to the transform button.
-![Transform](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/powerBI11.png)
+Before loading data in Power BI, we can transform the data by clicking transform buttom instead of load in Navigator tab. Or You can also transform the data after the data is loaded by clicking on to the transform button.<br>
+![Transform](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/powerBI11.png)<br>
 Changing the datatype of the data can be done easily by right-clicking on the column you want to change the datatype then >Change datatype.
