@@ -1,7 +1,7 @@
 # **Power BI**
 ![Data Visualization](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/pexels-lukas-590022%20(1).jpg)
 ## Day 1 of learning Power BI.
-Power BI Desktop is a free application for PCs that lets you gather, transform, and visualize your data. Ont the journey of learning Power BI, today I explored the report building environment in Power BI Desktop, connect to data sources and import data.  <br>
+Power BI Desktop is a free application for PCs that lets you gather, transform, and visualize your data. Onto the journey of learning Power BI, today I explored the report building environment in Power BI Desktop, connect to data sources and import data.  <br>
 ### Power BI Desktop Environment.
 Let's get familiar with the environment.
 ![Power BI Environment](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/02-power-bi-desktop-areas.png)
