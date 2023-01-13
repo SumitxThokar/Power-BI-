@@ -22,3 +22,13 @@ On the journey of learing Power BI, Today I learned transforming data with the h
 Before loading data in Power BI, we can transform the data by clicking transform buttom instead of load in Navigator tab. Or You can also transform the data after the data is loaded by clicking on to the transform button.<br>
 ![Transform](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/powerBI11.png)<br>
 Changing the datatype of the data can be done easily by right-clicking on the column you want to change the datatype then >Change datatype.
+<br>
+## Day 3 of Learning Power BI.
+On the journey of learning Power BI. Today I learned to create basic visuals and formatting them to beautify them.<br>
+- After getting the data. I started creating visuals using Visualization pane. Visualization pane has more than 30 visuals to work on. 
+- I started with simple Colmnn Chart. After selecting the Column Chart, I dragged and dropped the data which I want to visualize in X-axis and Y-axis label in Visualization pane from Fields. <br>
+#### Before 
+![Before](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/salesvscategory.png)
+- To customize the look of my chart I use the "Format Visual" menu. I explored and learn to customize the column quite well. You can see few of my learning in the image down below.
+#### After
+![After](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/onmyown.png)
