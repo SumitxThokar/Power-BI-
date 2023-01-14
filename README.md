@@ -32,3 +32,16 @@ On the journey of learning Power BI. Today I learned to create basic visuals and
 - To customize the look of my chart I use the "Format Visual" menu. I explored and learn to customize the column quite well. You can see few of my learning in the image down below.
 #### After
 ![After](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/onmyown.png)
+
+## Day 4 of Learning Power BI.
+On the journey of learning Power BI. Today, I had the opportunity to delve deeper into the world of Power BI and explore some of the basic chart types available. I was struck by the power of visuals to convey information in a much more impactful way than simple tables. They allow for the storytelling of numbers through beautiful, eye-catching designs.<br>
+#### Stacked Column Chart
+One of the charts I began with was the stacked column chart, which is similar to a standard column chart but with the added feature of labels. This allows for an even more detailed understanding of the data being presented. As an example, take a look at this image:
+![Stacked Column Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual1.png)
+In addition to the stacked column chart, I also had the opportunity to create other types of visuals such as **pie chart**, **donut chart**, **funnel chart**, and **ribbon chart**. The ease of creating these visuals with Power BI was impressive, and I highly recommend anyone working with data to give it a try. One tip I would offer is to pay close attention and work on your own with the format pane as it is what really brings a visual to life and makes it stand out.
+<br>
+Overall, it was a productive and enlightening day, and I am excited to continue learning and experimenting with the various chart types available in Power BI. Here are some of the visuals I was able to create:
+![Pie Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual2.png)
+![donut Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual3.png)
+![funnel Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual4.png)
+![Ribbon Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual5.png)
