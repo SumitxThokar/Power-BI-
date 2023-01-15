@@ -45,3 +45,23 @@ Overall, it was a productive and enlightening day, and I am excited to continue 
 ![donut Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual3.png)
 ![funnel Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual4.png)
 ![Ribbon Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual5.png)
+
+## Day 5 of my journey learning Power BI
+Today, I focused on creating and formatting tables in the software. First, I created a simple table by clicking on the table button in the visualization pane and then dragging and dropping the columns I wanted to work with into the column section. I also learned how to arrange the data in ascending or descending order by simply clicking on the header of the column.
+<br>
+### Creating a table.
+![Create table](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/ct1.jpg)
+<br>
+
+Next, I played around with formatting the table by increasing its size using the format section.
+### After formatting the table.
+![Formatting](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/format.jpg)
+<br>
+Finally, I explored the use of conditional formatting in tables. I discovered that by right clicking on values in the column section, a bar of options appears. By clicking on conditional formatting, I was able to customize the data bars, background color and icons to make the table look more visually appealing.
+<br> ### Using Conditional Formatting.
+![Conditional formatting](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/cond1.jpg)
+<br>
+### After Conditional Formatting.
+![Conditional formatting 2](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/conditional.jpg)
+
+Overall, it was a productive day in my Power BI learning journey and I am excited to continue exploring the software's capabilities.
