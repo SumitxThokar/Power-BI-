@@ -1,7 +1,7 @@
 # **Power BI**
 ![Data Visualization](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/pexels-lukas-590022%20(1).jpg)
 ## Day 1 of learning Power BI.
-Power BI Desktop is a free application for PCs that lets you gather, transform, and visualize your data. Onto the journey of learning Power BI, today I explored the report building environment in Power BI Desktop, connect to data sources and import data.  <br>
+:writing_hand: Power BI Desktop is a free application for PCs that lets you gather, transform, and visualize your data. Onto the journey of learning Power BI, today I explored the report building environment in Power BI Desktop, connect to data sources and import data.  <br>
 ### Power BI Desktop Environment.
 Let's get familiar with the environment.
 ![Power BI Environment](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/02-power-bi-desktop-areas.png)
@@ -17,14 +17,15 @@ One can easily get data from any format of file. Power BI supports more than 60 
 ![From Excel](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/getdatafromexcel.png)
 Now the navigator tab will pop up from where you can select which table data you want to work on. Clicking on the load botton will load the data in Power BI Desktop.
 You can easily see the data from **Report view pane> Data Model**. <br>
+
 ## Day 2 of Learning Power BI.
-On the journey of learing Power BI, Today I learned transforming data with the help of power query.<br>
+:writing_hand: On the journey of learing Power BI, Today I learned transforming data with the help of power query.<br>
 Before loading data in Power BI, we can transform the data by clicking transform buttom instead of load in Navigator tab. Or You can also transform the data after the data is loaded by clicking on to the transform button.<br>
 ![Transform](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/powerBI11.png)<br>
 Changing the datatype of the data can be done easily by right-clicking on the column you want to change the datatype then >Change datatype.
 <br>
 ## Day 3 of Learning Power BI.
-On the journey of learning Power BI. Today I learned to create basic visuals and formatting them to beautify them.<br>
+:writing_hand: On the journey of learning Power BI. Today I learned to create basic visuals and formatting them to beautify them.<br>
 - After getting the data. I started creating visuals using Visualization pane. Visualization pane has more than 30 visuals to work on. 
 - I started with simple Colmnn Chart. After selecting the Column Chart, I dragged and dropped the data which I want to visualize in X-axis and Y-axis label in Visualization pane from Fields. <br>
 #### Before 
@@ -34,7 +35,7 @@ On the journey of learning Power BI. Today I learned to create basic visuals and
 ![After](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/onmyown.png)
 
 ## Day 4 of Learning Power BI.
-On the journey of learning Power BI. Today, I had the opportunity to delve deeper into the world of Power BI and explore some of the basic chart types available. I was struck by the power of visuals to convey information in a much more impactful way than simple tables. They allow for the storytelling of numbers through beautiful, eye-catching designs.<br>
+:writing_hand: On the journey of learning Power BI. Today, I had the opportunity to delve deeper into the world of Power BI and explore some of the basic chart types available. I was struck by the power of visuals to convey information in a much more impactful way than simple tables. They allow for the storytelling of numbers through beautiful, eye-catching designs.<br>
 #### Stacked Column Chart
 One of the charts I began with was the stacked column chart, which is similar to a standard column chart but with the added feature of labels. This allows for an even more detailed understanding of the data being presented. As an example, take a look at this image:
 ![Stacked Column Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual1.png)
@@ -46,8 +47,8 @@ Overall, it was a productive and enlightening day, and I am excited to continue 
 ![funnel Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual4.png)
 ![Ribbon Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/visual5.png)
 
-## Day 5 of my journey learning Power BI
-Today, I focused on creating and formatting tables in the software. First, I created a simple table by clicking on the table button in the visualization pane and then dragging and dropping the columns I wanted to work with into the column section. I also learned how to arrange the data in ascending or descending order by simply clicking on the header of the column.
+## Day 5 of Learning Power BI
+:writing_hand: Today, I focused on creating and formatting tables in the software. First, I created a simple table by clicking on the table button in the visualization pane and then dragging and dropping the columns I wanted to work with into the column section. I also learned how to arrange the data in ascending or descending order by simply clicking on the header of the column.
 <br>
 ### Creating a table.
 ![Create table](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/ct1.jpg)
@@ -64,5 +65,20 @@ Finally, I explored the use of conditional formatting in tables. I discovered th
 <br>
 ### After Conditional Formatting.
 ![Conditional formatting 2](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/conditional.jpg)
-
 Overall, it was a productive day in my Power BI learning journey and I am excited to continue exploring the software's capabilities.
+
+## Day 6 of Learning Power BI.
+:writing_hand: On my journey of learing power BI. Today I learned to use matrix table, map, filled map, formatting them and created a simple dashboard on my own.
+<br>Matrix in Power BI allows for a more organized and readable display of data, particularly when there are repeated values within subcategories. It also allows for easy creation of a matrix table from a regular table, and provides the ability to add rows as needed. Additionally, matrix tables allow for the use of hierarchies, which can further enhance the organization and readability of the data. Using a matrix table can also help convey information better than a regular table.
+<br>
+![Heirarchy](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/heirarchy.jpg)
+<br>
+Formatting the matrix table is very similar to formatting table.
+**Maps**<br>
+![Maps](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/map.jpg)
+<br>
+**Formatting the map**<br>
+![Formatting map](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/mapafterformatting.jpg)
+<br>
+### Simple dashboard I prepared today. 
+![First dashboard](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/dashboard.jpg)
