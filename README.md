@@ -81,4 +81,4 @@ Formatting the matrix table is very similar to formatting table.
 ![Formatting map](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/mapafterformatting.jpg)
 <br>
 ### Simple dashboard I prepared today. 
-![First dashboard](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/dashboard.jpg)
+![First dashboard](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/dashboard1.jpg)
