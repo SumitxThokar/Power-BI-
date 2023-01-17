@@ -68,7 +68,7 @@ Finally, I explored the use of conditional formatting in tables. I discovered th
 Overall, it was a productive day in my Power BI learning journey and I am excited to continue exploring the software's capabilities.
 
 ## Day 6 of Learning Power BI.
-:writing_hand: On my journey of learing power BI. Today I learned to use matrix table, map, filled map, formatting them and created a simple dashboard on my own.
+:writing_hand: On my journey of learning power BI. Today I learned to use matrix table, map, filled map, formatting them and created a simple dashboard on my own.
 <br>Matrix in Power BI allows for a more organized and readable display of data, particularly when there are repeated values within subcategories. It also allows for easy creation of a matrix table from a regular table, and provides the ability to add rows as needed. Additionally, matrix tables allow for the use of hierarchies, which can further enhance the organization and readability of the data. Using a matrix table can also help convey information better than a regular table.
 <br>
 ![Heirarchy](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/heirarchy.jpg)
@@ -82,3 +82,22 @@ Formatting the matrix table is very similar to formatting table.
 <br>
 ### Simple dashboard I prepared today. 
 ![First dashboard](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/dashboard1.jpg)
+<br>
+## Day 7 of Learning Power BI.
+:writing_hand: On my journey of learning Power BI. Today I visualized other charts like: 
+**Line Chart**<br>
+A line chart is a graphical representation of data that uses points connected by lines to show trends or changes over time.<br>
+![Line Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/linechart.jpg)
+<br>
+Drill down in a line chart allows the user to zoom in on specific sections of the chart for more detailed analysis.<br>
+**Area Chart**<br>
+An area chart is similar to a line chart, but the area below the line is filled in to show the magnitude of change over time.<br>
+![Area Chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/areachart.jpg)
+<br>
+**Line and column chart**<br>
+![Line COlumn chart](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/linecolumnchart.jpg)
+A line and column chart combines elements of both line and column charts to display multiple sets of data.
+<br>
+**Scatter Plot**<br>
+A scatter plot is a graph that uses dots(bubbles) to represent values for two different numeric variables. It can be used to show the relationship between the two variables and it is the only chart which by default have animation in power BI.<br>
+![Scatter plot](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/Scatterplot.jpg)
