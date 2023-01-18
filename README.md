@@ -103,6 +103,7 @@ A scatter plot is a graph that uses dots(bubbles) to represent values for two di
 ![Scatter plot](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/Scatterplot.jpg)
 <br>
 ## Day 8 of Learning Power BI.
+:writing_hand:
 **Waterfall chart**<br>
 ![Waterfall](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/waterfall.jpg)
 <br>
@@ -112,6 +113,6 @@ A waterfall chart in Power BI is a type of chart that is used to visualize the c
 <br>
 A treemap in Power BI is a type of chart that visually displays hierarchical data as nested rectangles. The size and color of the rectangles indicate the relative value and grouping of the data. You can hover over the rectangles to see more detailed information and use the drill-through feature to explore the data in more depth. It is a useful tool for displaying hierarchical data and understanding the proportion of each level of the hierarchy.<br>
 **Gauge chart**<br>
-![Gauge}(https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/gauge.jpg)
+![Gauge](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/gauge.jpg)
 <br>
 Gauge is used to compare target.A gauge chart in Power BI is a type of chart that is used to visualize a single value in relation to a target or range. It is often used to show progress towards a goal or to compare a current value to a desired value. The chart displays a needle or marker that indicates the current value, with the target or range illustrated by a circular or radial scale. Gauge charts in Power BI can be customized to include different colors and labels to help communicate important information and the progress towards the target.
