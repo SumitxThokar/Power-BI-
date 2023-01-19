@@ -116,3 +116,9 @@ A treemap in Power BI is a type of chart that visually displays hierarchical dat
 ![Gauge](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/gauge.jpg)
 <br>
 Gauge is used to compare target.A gauge chart in Power BI is a type of chart that is used to visualize a single value in relation to a target or range. It is often used to show progress towards a goal or to compare a current value to a desired value. The chart displays a needle or marker that indicates the current value, with the target or range illustrated by a circular or radial scale. Gauge charts in Power BI can be customized to include different colors and labels to help communicate important information and the progress towards the target.
+<br>
+## Day 9 of Learning Power BI.
+:writing_hand: **Number Card**<br>
+In Power BI, a "Number card" is a type of visualization that can be used to display data in a dashboard or report.
+A Number card is a simple visualization that displays a single value, often used to show a key performance indicator (KPI) or other important metric. It can be customized to display the value in different formats, such as currency or percentage, and can also include a trend arrow or a sparkline to show changes over time.
+![Number Card](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/number.jpg)
