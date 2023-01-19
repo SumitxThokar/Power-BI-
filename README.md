@@ -120,5 +120,5 @@ Gauge is used to compare target.A gauge chart in Power BI is a type of chart tha
 ## Day 9 of Learning Power BI.
 :writing_hand: **Number Card**<br>
 In Power BI, a "Number card" is a type of visualization that can be used to display data in a dashboard or report.
-A Number card is a simple visualization that displays a single value, often used to show a key performance indicator (KPI) or other important metric. It can be customized to display the value in different formats, such as currency or percentage, and can also include a trend arrow or a sparkline to show changes over time.
+A Number card is a simple visualization that displays a single value, often used to show a key performance indicator (KPI) or other important metric. It can be customized to display the value in different formats, such as currency or percentage, and can also include a trend arrow or a sparkline to show changes over time.<br>
 ![Number Card](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/number.jpg)
