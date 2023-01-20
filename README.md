@@ -122,3 +122,9 @@ Gauge is used to compare target.A gauge chart in Power BI is a type of chart tha
 In Power BI, a "Number card" is a type of visualization that can be used to display data in a dashboard or report.
 A Number card is a simple visualization that displays a single value, often used to show a key performance indicator (KPI) or other important metric. It can be customized to display the value in different formats, such as currency or percentage, and can also include a trend arrow or a sparkline to show changes over time.<br>
 ![Number Card](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/number.jpg)
+
+## Day 10 of Learning Power BI.
+:writing_hand: **Formatting in Number Card**<br>
+In Power BI, formatting a number card to include a shadow and adjusting the border involves using the formatting options available in the "Format" section of the Power BI interface. To add a shadow to the number card, you can access the "Format" section and look for the "Shape" or "Style" options. Here you will find the option to add a shadow to the card. To adjust the border of the number card, you can also access the "Format" section and look for the "Border" options. Here you will find options to adjust the thickness, color, and style of the border. Additionally, you can use other formatting options, like fill color or transparency, to enhance the overall look and feel of the card. 
+<br>
+![Formatting](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/formattingtextbox.jpg)
