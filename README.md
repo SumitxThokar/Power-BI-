@@ -128,3 +128,11 @@ A Number card is a simple visualization that displays a single value, often used
 In Power BI, formatting a number card to include a shadow and adjusting the border involves using the formatting options available in the "Format" section of the Power BI interface. To add a shadow to the number card, you can access the "Format" section and look for the "Shape" or "Style" options. Here you will find the option to add a shadow to the card. To adjust the border of the number card, you can also access the "Format" section and look for the "Border" options. Here you will find options to adjust the thickness, color, and style of the border. Additionally, you can use other formatting options, like fill color or transparency, to enhance the overall look and feel of the card. 
 <br>
 ![Formatting](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/formattingtextbox.jpg)
+
+## Day 11 of Learning Power BI.
+:writing_hand: On my journey of learning power BI, Today I learned to visualize Date Card, Filters in Date card, about Relative filtering and Multi row card in power BI.<br>
+One of the most useful features in data visualization is the ability to filter by relative dates. This allows you to quickly and easily see how your data changes over time. By using this filter in various visuals, you can gain a deeper understanding of the trends and patterns in your data.
+<br>
+Another powerful feature is the ability to use multi-row cards. While other visuals may only provide a single feature, multi-row cards allow you to display multiple features at once. This can be especially useful when working with large datasets or when trying to identify correlations between different data points.
+<br>
+Together, these features provide a powerful toolset for exploring and understanding your data. With the ability to filter by relative dates and display multiple features at once, you can gain a deeper understanding of your data and make more informed decisions.
