@@ -135,4 +135,5 @@ One of the most useful features in data visualization is the ability to filter b
 <br>
 Another powerful feature is the ability to use multi-row cards. While other visuals may only provide a single feature, multi-row cards allow you to display multiple features at once. This can be especially useful when working with large datasets or when trying to identify correlations between different data points.
 <br>
+![Multi row](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/multirow.jpg)
 Together, these features provide a powerful toolset for exploring and understanding your data. With the ability to filter by relative dates and display multiple features at once, you can gain a deeper understanding of your data and make more informed decisions.
