@@ -137,3 +137,16 @@ Another powerful feature is the ability to use multi-row cards. While other visu
 <br>
 ![Multi row](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/multirow.jpg)
 Together, these features provide a powerful toolset for exploring and understanding your data. With the ability to filter by relative dates and display multiple features at once, you can gain a deeper understanding of your data and make more informed decisions.
+
+## Day 12 of Learning Power BI.
+:writing_hand: On my journey of learning power BI, I learned to Filter on page, visuals and all pages. <br>
+In Power BI, filters can be applied at three different levels: visual level, page level, and report level.
+- Visual level filters apply only to a specific visual on a page, and do not affect the other visuals on the same page.
+- Page level filters apply to all visuals on a single page, but do not affect the other pages in the report.
+- Report level filters apply to all visuals on all pages in the report.
+<br>
+You can use these different levels of filters to control the data that is displayed in your report and to create dynamic and interactive visualizations.<br>
+### Filter on Visuals.
+![Filter on visuals](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/on_visual.jpg)
+### Fitler on Page.
+![Filter on page](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/onpage.jpg)
