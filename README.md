@@ -144,7 +144,6 @@ In Power BI, filters can be applied at three different levels: visual level, pag
 - Visual level filters apply only to a specific visual on a page, and do not affect the other visuals on the same page.
 - Page level filters apply to all visuals on a single page, but do not affect the other pages in the report.
 - Report level filters apply to all visuals on all pages in the report.
-<br>
 You can use these different levels of filters to control the data that is displayed in your report and to create dynamic and interactive visualizations.
 ### Filter on Visuals.
 
