@@ -154,3 +154,16 @@ You can use these different levels of filters to control the data that is displa
 ### Fitler on Page.
 
 ![Filter on page](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/onpage.jpg)
+
+## Day 13 of learning Power BI.
+:writing_hand: On my journey of Learning Power BI, Today I learned about drill through and its advantages in power BI.<br>
+In Power BI, a "drill through" feature allows users to click on a data point in a visual and see more detailed information related to that data point. This feature can be used to navigate and explore data at a more granular level.
+<br>
+To use the drill through feature in Power BI, you first need to create a visual and add the data you want to drill through to it. Then, you need to enable the drill through feature for that visual by going to the "Visualizations" pane, selecting the visual, and clicking on the "Drillthrough" button. Once the drill through feature is enabled, you can click on any data point in the visual to drill through to the detailed data.
+<br>
+The advantages of using drill through in Power BI include:
+- It allows users to explore data at a more granular level, which can help them to understand the data better.
+- It enables users to easily access detailed information related to a specific data point, without having to navigate through multiple screens or reports.
+- It can be used to create a more interactive and engaging user experience.
+- It allows users to access to more information which can help them to make more informed decisions.
+Overall, drill through is a powerful feature that can help users to better understand and explore data in Power BI.
