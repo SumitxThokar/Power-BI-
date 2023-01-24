@@ -172,6 +172,8 @@ Overall, drill through is a powerful feature that can help users to better under
 :writing_hand: On my journey of learning Power BI, I visualized about Slicer in text.
 ### Slicer in Text
 ![In Text](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/slicer.jpg)
+
+
 In Power BI, a text slicer allows you to filter data based on a specific text value or pattern. To use a text slicer, you first need to create a table or column that contains the text values you want to filter on. Then, you can add a text slicer to your report, and select the table or column as the field to filter on.
 <br>
 Advantages of using text slicers in Power BI include:
