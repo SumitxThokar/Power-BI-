@@ -167,3 +167,13 @@ The advantages of using drill through in Power BI include:
 - It can be used to create a more interactive and engaging user experience.
 - It allows users to access to more information which can help them to make more informed decisions.
 Overall, drill through is a powerful feature that can help users to better understand and explore data in Power BI.
+
+## Day 14 of Learning Power BI.
+:writing_hand: On my journey of learning Power BI, I visualized about Slicer in text.
+### Slicer in Text
+![In Text](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/slicer.jpg)
+In Power BI, a text slicer allows you to filter data based on a specific text value or pattern. To use a text slicer, you first need to create a table or column that contains the text values you want to filter on. Then, you can add a text slicer to your report, and select the table or column as the field to filter on.
+<br>
+Advantages of using text slicers in Power BI include:
+- They allow you to quickly filter data based on specific text values or patterns, making it easier to find the information you need.
+- They are easy to use, and can be added to a report with just a few clicks.
