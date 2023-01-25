@@ -179,3 +179,15 @@ In Power BI, a text slicer allows you to filter data based on a specific text va
 Advantages of using text slicers in Power BI include:
 - They allow you to quickly filter data based on specific text values or patterns, making it easier to find the information you need.
 - They are easy to use, and can be added to a report with just a few clicks.
+
+## Day 15 of Learning Power BI.
+:writing_hand: On my journey of learning Power BI, I learned to format Text slicer.<br>
+To format a text slicer in Power BI, you can do the following:
+- Select the slicer visual on the report canvas.
+- Go to the Format pane on the right.
+- Under the "General" section, you can change the font size, color, and alignment of the text.
+- Under the "Slicer" section, you can change the background color, border, and spacing of the slicer.
+- You can also change the way the items are displayed, such as a list or a dropdown, and the layout of the items.
+- Click "Apply" to save your changes.
+
+![Formatting](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/formatting.jpg)
