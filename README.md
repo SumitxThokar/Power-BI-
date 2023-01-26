@@ -191,3 +191,10 @@ To format a text slicer in Power BI, you can do the following:
 - Click "Apply" to save your changes.
 
 ![Formatting](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/formatting.jpg)
+
+## Day 16 of Learning Power BI.
+:writing_hand: On my journey of learning Power BI, I learned about Bate Slicer and its uses in Power BI.\
+### Date Slicer
+A date slicer in Power BI is a visual tool that allows users to filter data by date range. It is typically used in dashboards and reports to allow users to easily view data for specific periods of time, such as a specific month or quarter. Date slicers can be used to filter data in multiple visualizations or tables on a dashboard, making it easy for users to analyze data for a specific time period. They are also customizable, allowing users to change the date range, format, and style of the slicer to fit their needs.
+
+![Date Slicer](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/dateslicer.jpg)
