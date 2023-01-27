@@ -199,7 +199,7 @@ A date slicer in Power BI is a visual tool that allows users to filter data by d
 
 ![Date Slicer](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/dateslicer.jpg)
 
-#$ Day 17 of Learning Power BI.
+## Day 17 of Learning Power BI.
 :writing_hand: On my journey of learning power BI, I learned about Slicer for number.
 ### Slicer for number.
 ![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/fornumber.jpg)
