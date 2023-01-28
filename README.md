@@ -203,3 +203,11 @@ A date slicer in Power BI is a visual tool that allows users to filter data by d
 :writing_hand: On my journey of learning power BI, I learned about Slicer for number.
 ### Slicer for number.
 ![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/fornumber.jpg)
+
+
+## Day 18 of Learning Power BI.
+:writing_hand:On your journey of learning Power BI, Today I had the opportunity to create visually stunning and advanced charts that may not be immediately available within the platform. One such example is the animated bar chart race, which can add an interactive and dynamic element to your data visualization. To import advanced charts such as this, you will first need a Power BI account. Once you have one, you can access the visualization pane and look for the ellipsis button. By clicking on this button and then selecting the "Get More Visuals" option, you will be able to add advanced charts to your Power BI project and take your data visualization to the next level.
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/more.jpg)
+### Animated Bar chart Race.
+An animated bar chart race is a type of chart that animates the transition of data over time. It is essentially a sequence of bar charts that shows how the relative values of different categories change over time. The chart typically starts with the data for the first time period, and then animates the transition to the next time period, showing how the values of the different categories change. It can be useful for visualizing trends over time, and it can be created in Power BI using the "Play Axis" and "Synchronized Playback" features.
+![Barchart Race](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/barchartrace.jpg)
