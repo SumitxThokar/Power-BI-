@@ -220,7 +220,10 @@ An animated bar chart race is a type of chart that animates the transition of da
 ## Day 19 of Learning Power BI.
 :writing_hand:On your journey of learning Power BI, Today I observed more of advanced charts (i.e Drill down column chart and Drill down donut chart) in power BI.<br>
 ### Drill-down Column chart
-A drill-down column chart in Power BI is a type of chart that allows users to drill down into the data by clicking on a specific column. This allows users to see more detailed information about the data represented by that column. <img src="https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/drilldowncolumn.jpg" align="right" width="400">
+A drill-down column chart in Power BI is a type of chart that allows users to drill down into the data by clicking on a specific column. This allows users to see more detailed information about the data represented by that column. 
+
+
+<img src="https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/drilldowncolumn.jpg">
 
 
 ### Drill-down donut chart
