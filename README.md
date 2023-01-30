@@ -206,7 +206,7 @@ A date slicer in Power BI is a visual tool that allows users to filter data by d
 
 
 ## Day 18 of Learning Power BI.
-:writing_hand:On your journey of learning Power BI, Today I had the opportunity to create visually stunning and advanced charts that may not be immediately available within the platform. One such example is the animated bar chart race, which can add an interactive and dynamic element to your data visualization. To import advanced charts such as this, you will first need a Power BI account. Once you have one, you can access the visualization pane and look for the ellipsis button. By clicking on this button and then selecting the "Get More Visuals" option, you will be able to add advanced charts to your Power BI project and take your data visualization to the next level.
+:writing_hand:On my journey of learning Power BI, Today I had the opportunity to create visually stunning and advanced charts that may not be immediately available within the platform. One such example is the animated bar chart race, which can add an interactive and dynamic element to your data visualization. To import advanced charts such as this, you will first need a Power BI account. Once you have one, you can access the visualization pane and look for the ellipsis button. By clicking on this button and then selecting the "Get More Visuals" option, you will be able to add advanced charts to your Power BI project and take your data visualization to the next level.
 
 
 ![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/more.jpg)
@@ -218,7 +218,7 @@ An animated bar chart race is a type of chart that animates the transition of da
 
 
 ## Day 19 of Learning Power BI.
-:writing_hand:On your journey of learning Power BI, Today I observed more of advanced charts (i.e Drill down column chart and Drill down donut chart) in power BI.<br>
+:writing_hand:On my journey of learning Power BI, Today I observed more of advanced charts (i.e Drill down column chart and Drill down donut chart) in power BI.<br>
 ### Drill-down Column chart
 A drill-down column chart in Power BI is a type of chart that allows users to drill down into the data by clicking on a specific column. This allows users to see more detailed information about the data represented by that column. 
 
@@ -229,3 +229,16 @@ A drill-down column chart in Power BI is a type of chart that allows users to dr
 ### Drill-down donut chart
  A drill-down donut chart is similar, but it is a donut chart rather than a column chart. This type of chart allows users to drill down into the data by clicking on a specific segment of the donut. Both of these chart types can be useful for visualizing hierarchical data and for allowing users to explore data at different levels of detail.
  <img src="https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/drilldowndonut.jpg">
+
+## Day 20 of Learning Power BI.
+:writing_hand: On my journey of Learning Power Bi, I visualized more of advanced charts i.e Infographic chart, Sankey and Word cloud.<br>
+- Infographic charts: visually appealing charts that help to communicate information in a clear and concise manner.
+- Sankey diagram: a flow diagram that represents the flow of information or materials between different stages or entities.
+- Word cloud: a visualization that displays the most frequently occurring words in a dataset as bigger and bolder text.
+
+### Visualizations
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/infographic.jpg)
+
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/sss.jpg)
+
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/word_cloud.jpg)
