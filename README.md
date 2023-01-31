@@ -231,7 +231,7 @@ A drill-down column chart in Power BI is a type of chart that allows users to dr
  <img src="https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/drilldowndonut.jpg">
 
 ## Day 20 of Learning Power BI.
-:writing_hand: On my journey of Learning Power Bi, I visualized more of advanced charts i.e Infographic chart, Sankey and Word cloud.<br>
+:writing_hand: On my journey of Learning Power BI, I visualized more of advanced charts i.e Infographic chart, Sankey and Word cloud.<br>
 - Infographic charts: visually appealing charts that help to communicate information in a clear and concise manner.
 - Sankey diagram: a flow diagram that represents the flow of information or materials between different stages or entities.
 - Word cloud: a visualization that displays the most frequently occurring words in a dataset as bigger and bolder text.
@@ -242,3 +242,22 @@ A drill-down column chart in Power BI is a type of chart that allows users to dr
 ![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/sss.jpg)
 
 ![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/word_cloud.jpg)
+
+## Day 21 of Learning Power BI.
+:writing_hand: On my journey of Learning Power BI, Today I visualized more of advanced charts in power BI i.e Play axis, Scroller, Sunbrust.
+- **Play Axis:** A Play Axis in Power BI allows you to animate a report over time. You can visualize data changes over time by adding a Play Axis to your report and adjusting its properties.
+
+
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/playaxis.jpg)
+
+
+- **Scroller:** A Scroller in Power BI is a visual element that allows you to horizontally scroll through a set of data. It can be used to display long lists of data without cluttering the report.
+
+
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/scroller.jpg)
+
+
+- **Sunburst:** A Sunburst chart in Power BI is a multi-level hierarchical chart used to display data in a circular format. It shows relationships between multiple levels of categories and can be used to visualize hierarchical data structures like organizational charts or file systems.
+
+
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/sunburst.jpg)
