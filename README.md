@@ -261,3 +261,12 @@ A drill-down column chart in Power BI is a type of chart that allows users to dr
 
 
 ![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/sunburst.jpg)
+
+## Day 22 of Learning Power BI.
+:writing_hand: On my journey of Learning Power BI, Today I visualized advanced chart Histogram in power BI. <br>
+A histogram in Power BI is a chart that displays the distribution of data over a set of intervals or bins. It helps to visually represent the distribution of data by showing how frequently the data falls into certain intervals. It's a useful tool to identify patterns and outliers in data, and can help in making informed decisions based on the data.
+
+
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/histo.jpg)
+
+
