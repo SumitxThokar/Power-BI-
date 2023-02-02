@@ -269,4 +269,11 @@ A histogram in Power BI is a chart that displays the distribution of data over a
 
 ![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/histo.jpg)
 
+## Day 23 of Learning Power BI.
+:writing_hand: On my journey of Learning Power BI, Today I learned to use power Query in Power BI. After loading data into Power BI, I filtered the data by removing the top rows which contains null values. Then I changed the header to the first row. I changed the data types, removed unnecessary columns, unpivoted 4 columns and lastly saved the transformation. You can see the change in data after filteration.
 
+### Before:
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/y2.jpg)
+
+### After:
+![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/y1.jpg)
