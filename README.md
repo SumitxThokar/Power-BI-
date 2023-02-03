@@ -277,3 +277,6 @@ A histogram in Power BI is a chart that displays the distribution of data over a
 
 ### After:
 ![](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/y1.jpg)
+
+## Day 24 of Learning Power BI.
+:writing_hand: On my journey of Learning Power BI, Today I learned to create and manage relationships in Power BI. After loading the data and head over to model section and I found that the power BI itself is quite good at generating relationships. I then learned about Cardinality, Cross Filter Directions and what happened when relationships is or isn't made active. The I learned building the realtionships from scratch by draggind down the columns from one table to another.
