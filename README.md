@@ -283,3 +283,8 @@ A histogram in Power BI is a chart that displays the distribution of data over a
 
 ## Day 25 of Learning Power BI.
 :writing_hand: On my journey of Learning Power BI, Today I learned about Data Analysis Expressions(DAX) in Power BI. DAX is a formula language in Power BI used to perform data analysis and manipulation. Count function returns the number of rows in a table or column, while SUM function adds up values in a column. SUMX is an advanced version of SUM that allows more complex calculations. Power BI also offers a range of date functions for manipulation and analysis of dates, such as TODAY, NOW, and DATEDIFF. The If statement in DAX allows to perform conditional calculations, where the result depends on a logical test.
+
+## Day 26 of Learning Power BI.
+:writing_hand: On my journey of Learning Power BI, Today I learned how to use drill down in Power BI. "Drill down" in Power BI is a feature that allows you to navigate and view more detailed information within a report by clicking on specific data points to dive deeper into the data.
+<br>
+The function of drill down in Power BI is to provide greater insight into the data being analyzed by allowing the user to see more detailed information at different levels of aggregation. This helps to understand the underlying data better, identify trends and patterns, and make data-driven decisions. By drilling down into the data, you can get a better understanding of the relationships and connections between different data points and uncover new insights.
