@@ -288,3 +288,13 @@ A histogram in Power BI is a chart that displays the distribution of data over a
 :writing_hand: On my journey of Learning Power BI, Today I learned how to use drill down in Power BI. "Drill down" in Power BI is a feature that allows you to navigate and view more detailed information within a report by clicking on specific data points to dive deeper into the data.
 <br>
 The function of drill down in Power BI is to provide greater insight into the data being analyzed by allowing the user to see more detailed information at different levels of aggregation. This helps to understand the underlying data better, identify trends and patterns, and make data-driven decisions. By drilling down into the data, you can get a better understanding of the relationships and connections between different data points and uncover new insights.
+
+
+## Day 27 of Learning Power BI.
+:writing_hand: On my journey of learning power BI, Today I revised my learning on conditional formatting and to use them. <br>
+**Conditional formatting** is a feature in data visualization tools that allows you to apply custom formatting to cells or data points in a table, based on specified conditions. In Power BI, you can use conditional formatting to highlight data points, text, or entire columns in a table based on certain criteria. To use conditional formatting in Power BI, follow these steps:
+- Select the column you want to format.
+- Go to the "Modeling" tab in the ribbon, and select "New rule" under "Conditional formatting".
+- In the "Conditional formatting" panel, select the formatting type you want to apply (e.g., color scale, data bar, etc.).
+- Specify the conditions for the formatting to be applied, using a formula or a set of predefined conditions.
+- The formatting will be applied to the selected column based on the specified conditions.
