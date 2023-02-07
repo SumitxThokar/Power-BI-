@@ -298,3 +298,10 @@ The function of drill down in Power BI is to provide greater insight into the da
 - In the "Conditional formatting" panel, select the formatting type you want to apply (e.g., color scale, data bar, etc.).
 - Specify the conditions for the formatting to be applied, using a formula or a set of predefined conditions.
 - The formatting will be applied to the selected column based on the specified conditions.
+
+## Day 28 of Learning Power BI.
+:writing_hand: On my journey of learning power BI, Today I learned to use Bins and Lists in Power BI.
+### Bins
+Bins in Power BI allow you to group numeric data into a specified number of ranges or intervals, making it easier to analyze and visualize the data. To create a bin, go to the "Modeling" tab and select "New Bin". Enter the name of the bin and specify the range of values you want to group into the bin.
+### Lists
+Lists in Power BI allow you to create a custom set of items and use it as a filter. To create a list, go to the "Modeling" tab and select "New List". Enter the name of the list and specify the items you want to include in the list. You can use the list as a filter by selecting it in the "Visualizations" pane and applying it to a visualization.
