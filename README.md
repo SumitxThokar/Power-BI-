@@ -305,3 +305,6 @@ The function of drill down in Power BI is to provide greater insight into the da
 Bins in Power BI allow you to group numeric data into a specified number of ranges or intervals, making it easier to analyze and visualize the data. To create a bin, go to the "Modeling" tab and select "New Bin". Enter the name of the bin and specify the range of values you want to group into the bin.
 ### Lists
 Lists in Power BI allow you to create a custom set of items and use it as a filter. To create a list, go to the "Modeling" tab and select "New List". Enter the name of the list and specify the items you want to include in the list. You can use the list as a filter by selecting it in the "Visualizations" pane and applying it to a visualization.
+
+## Day 29 of Learning Power BI.
+:writing_hand: On my journey of learning power BI, Today I started working on a Full Power BI Guided Project. Today, I imported data from an Excel file into Alex's Github repository. I then transformed the data to make it more usable and gave an overview of the data to gain insights. To make the data even cleaner and more efficient, I removed unnecessary columns, split columns using delimiters, and created new columns using averages and Close and apply after cleaning the data.
