@@ -308,3 +308,12 @@ Lists in Power BI allow you to create a custom set of items and use it as a filt
 
 ## Day 29 of Learning Power BI.
 :writing_hand: On my journey of learning power BI, Today I started working on a Full Power BI Guided Project. Today, I imported data from an Excel file into Alex's Github repository. I then transformed the data to make it more usable and gave an overview of the data to gain insights. To make the data even cleaner and more efficient, I removed unnecessary columns, split columns using delimiters, and created new columns using averages and Close and apply after cleaning the data.
+
+## Day 30 of Learning Power BI.
+:writing_hand: Today was a day of achievements and new beginnings! I successfully completed my first Power BI guided project, and what an amazing experience it was. I had the opportunity to explore my creative side by designing a beautiful dashboard that showcases different and popular visualizations such as Bar Charts, Column Charts, Donut Charts, Cards, Line Charts, and so much more. The process was truly educational, and I learned so much about the intricacies of data representation and visualization.
+
+As I worked through each step, I felt a sense of accomplishment and excitement. From selecting the data to creating the visualizations, I was in awe of the limitless possibilities and the impact that a well-designed dashboard can have. The end result was simply breathtaking, and I couldn't be more proud of what I had created.
+
+This project has certainly inspired me to continue my journey in the world of Power BI, and I look forward to learning more and applying my newfound skills to other projects. I am grateful for this opportunity to expand my knowledge and develop my skills, and I will cherish this day as a step forward in my daily learning journey.
+
+Here's to many more exciting projects and new experiences in the world of Power BI. And with this I will stop updating this repo.
