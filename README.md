@@ -1,5 +1,14 @@
 # **Power BI**
 ![Data Visualization](https://github.com/SumitxThokar/LearningPowerBI/blob/main/images/pexels-lukas-590022%20(1).jpg)
+
+
+
+| **Projects** | **Status of Completion** |
+| ----- | -----|
+| 1. [**Survey Analysis of Data Professionals**](https://github.com/SumitxThokar/Power_BI_Projects./blob/main/First%20Power%20BI%20(Alex)/project_1.pbix) | :white_check_mark: |
+| 2. [**Arsenal Stats After 2000**](https://github.com/SumitxThokar/Power-BI-Projects./blob/main/Arsenal_Stats/foot.pbix) | :white_check_mark: |
+
+
 ## Day 1 of learning Power BI.
 :writing_hand: Power BI Desktop is a free application for PCs that lets you gather, transform, and visualize your data. Onto the journey of learning Power BI, today I explored the report building environment in Power BI Desktop, connect to data sources and import data.  <br>
 ### Power BI Desktop Environment.
